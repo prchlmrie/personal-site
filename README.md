@@ -1,3 +1,3 @@
-First time practicing
+First time practicing.
 
-https://prchlmrie.github.io/personal-site/
+To access: https://prchlmrie.github.io/personal-site/
